@@ -23,7 +23,7 @@ This project is designed to crack a mobile game named "4=10" ([official website]
 
  ㅤ
 
-2. Go toward cell group `Main` to select Mode and Set X & Y
+2. Go into cell group `Main` to select mode and set X & Y
 
  ㅤ
  
