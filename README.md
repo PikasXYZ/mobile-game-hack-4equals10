@@ -100,6 +100,12 @@ This project is designed to crack a mobile game named "4=10" ([official website]
 
  ㅤ
  
+:question: FileNotFound error occurs in Mode "Grid Search", how to solve it?
+
+:bulb: Maybe it's a bug of Google Drive and I have no idea why it happends, either. But don't worry because it still works, which means the log data will not disappear but be found next time. What you only need to do is running again to continue.
+
+ ㅤ
+ 
 :question: May I share the quizzes data to others by giving them toward the author to add them into this repository?
 
 :bulb: Sure! Just send mail to pikasxyz@gmail.com in detail~
