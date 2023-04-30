@@ -46,7 +46,7 @@ This project is designed to crack a mobile game named "4=10" ([official website]
 
    - **If you choose the mode "Get Ans":**
   
-      After running the cell `Mode "Get Ans"`, some widgets will be displayed. Then input the quiz number and click banned operators. Finally get the answer of X=Y by clicking the **Get Ans!** button. BTW, you can change the amount of answers you want to see at most if you wanna get more or less answer.
+      After running the cell `Mode "Get Ans"`, some widgets will be displayed. Then input the quiz number and click banned operators. Finally get the answer of X=Y by clicking the **Get Ans!** button. BTW, you can change the amount of answers you want to see at most if you wanna get more or fewer answers.
 
     ㅤ  
    <p align="center">
@@ -59,7 +59,7 @@ This project is designed to crack a mobile game named "4=10" ([official website]
 
    - **If you choose the mode "Get Quiz":**
   
-      After running the cell `Mode "Get Quiz"`, some widgets will be displayed. Then select the difficulty from 1~5. Finally get the quiz of X=Y by clicking the **Get Quiz!** button. BTW, you can change the amount of answers you want to see at most if you wanna get more or less answer.
+      After running the cell `Mode "Get Quiz"`, some widgets will be displayed. Then select the difficulty from 1~5. Finally get the quiz of X=Y by clicking the **Get Quiz!** button. BTW, you can change the amount of answers you want to see at most if you wanna get more or fewer answers.
 
 
    <p align="center">
@@ -85,7 +85,7 @@ This project is designed to crack a mobile game named "4=10" ([official website]
   
       After executing `Mode "Grid Search"`, you can generate your own unprecedented quizzes data with X=Y values. The process can be quite time-consuming if X exceeds 5, but this shouldn't be a major issue as the progress will be displayed in real-time during the run and saved as a pickle file in your Google Drive each time you stop running the cell. At the end of the job, a CSV file named X=Y.csv (where X and Y are numbers you previously set) will also be generated and saved in your Google Drive.
 
-      Additionally, you're able to change the folder where your pickle and CSV files are stored by adjusting the `log_folder` and `output_folder` parameters in this cell. Moreover, you can enable LINE notifications to keep track of the progress of the grid search by entering your LINE notify API token into the `line_notify_api_token parameter` in this cell. If you prefer not to expose your LINE notify API token publicly when running this project externally, you can modify the `line_notify_api_token_path` parameter with the path to a text file containing your token in your Google Drive, which can also be read.
+      Additionally, you're able to change the folder where your pickle and CSV files are stored by adjusting the `log_folder` and `output_folder` parameters in this cell. Moreover, you can enable LINE notifications to keep track of the progress of the grid search by entering your LINE notify API token into the `line_notify_api_token` parameter in this cell. If you prefer not to expose your LINE notify API token publicly when running this project externally, you can modify the `line_notify_api_token_path` parameter with the path to a text file containing your token in your Google Drive, which can also be read.
       
       ㅤ 
     <p align="center">
@@ -102,11 +102,11 @@ This project is designed to crack a mobile game named "4=10" ([official website]
  
 :question: FileNotFound error occurs in Mode "Grid Search", how to solve it?
 
-:bulb: Maybe it's a bug of Google Drive and I have no idea why it happends, either. But don't worry because it still works, which means the log data will not disappear but be found next time. What you only need to do is running again to continue.
+:bulb: Maybe it's a bug in Google Drive and I have no idea why it happens, either. But don't worry because it still works, which means the log data will not disappear but be found next time. What you only need to do is running again to continue.
 
  ㅤ
  
-:question: May I share the quizzes data to others by giving them toward the author to add them into this repository?
+:question: May I share the quizzes data with others by giving them toward the author to add them into this repository?
 
 :bulb: Sure! Just send mail to pikasxyz@gmail.com in detail~
 
