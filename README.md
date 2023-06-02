@@ -1,8 +1,6 @@
 # mobile-game-hack-4equals10
 
 This project is designed to crack a mobile game named "4=10" ([official website](https://fourequalsten.app/)). In this game, you get 4 numbers and some usable operators in each stage. And the goal is to make the result equal 10 with those given operators which do not always contain all of the "＋", "－", "×", "÷". 
-
-<a href="https://colab.research.google.com/drive/1pE_KVkqRg3OSvKE0Rfdse24MeRzOk8E7?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
  ㅤ
 <p align="center">
   <img src="pic/clear.png" height=400>
